@@ -1,0 +1,23 @@
+# Replication data and urls for the submission Exploring Conversation Topics in Conversational Artificial Intelligence–Based Social Mediated Communities of Practice
+# authors: Yu-Leung Ng, Hong Kong Baptist University; Zhihuai Lin, Chinese University of Hong Kong
+
+1.amazonData
+https://drive.google.com/drive/folders/121uvLlOxCkjd1ZKxxzyz2pHBMkpvElBy?usp=sharing
+-1.1 alexaData
+https://drive.google.com/drive/folders/1q4EmEW3vy7aN_hAExkOIH4aPRN8nOf4Z?usp=sharing
+-1.2 echoData
+https://drive.google.com/drive/folders/1zHdv8rKdBXCuKfCTrvEQuIJtVMMVtTT6?usp=sharing
+
+2.appleData
+https://drive.google.com/drive/folders/1O1TCwQfa7M-sDkpLWhwbPJ5ZK_pYfebp?usp=sharing
+-2.1 homepodData
+https://drive.google.com/drive/folders/1aW5yiyvDIE7QVAX_VO6V8yAl8sIoWmmM?usp=sharing
+-2.2 siriData
+https://drive.google.com/drive/folders/1JpMtSIiIXpTIlkXwVFTKtO6NOF6II69Q?usp=sharing
+
+3.googleData
+https://drive.google.com/drive/folders/1zWumrrduIIgv-3eUyfPE7mgiHwBMizvn?usp=sharing
+-3.1 assistantData
+https://drive.google.com/drive/folders/1ncPdlZtGEaZwvsQrIMzs2wQ_CYE1z7Fl?usp=sharing
+-3.2 homeData
+https://drive.google.com/drive/folders/1uh0SI7fGI9lK1l_ZXKqI4yhE2jPVnhZF?usp=sharing
