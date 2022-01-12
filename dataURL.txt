@@ -1,5 +1,4 @@
 # Replication data and urls for the submission Exploring Conversation Topics in Conversational Artificial Intelligence–Based Social Mediated Communities of Practice
-# authors: Yu-Leung Ng, Hong Kong Baptist University; Zhihuai Lin, Chinese University of Hong Kong
 
 1.amazonData
 https://drive.google.com/drive/folders/121uvLlOxCkjd1ZKxxzyz2pHBMkpvElBy?usp=sharing
