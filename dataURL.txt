@@ -1,4 +1,4 @@
-# Replication data and urls for the submission Exploring Conversation Topics in Conversational Artificial Intelligence–Based Social Mediated Communities of Practice
+# Data and urls for the submission Exploring Conversation Topics in Conversational Artificial Intelligence–Based Social Mediated Communities of Practice
 
 1.amazonData
 https://drive.google.com/drive/folders/121uvLlOxCkjd1ZKxxzyz2pHBMkpvElBy?usp=sharing
