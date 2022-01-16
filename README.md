@@ -1,15 +1,53 @@
 # ConAI-based-CoP
 
-- This repository contains the replication codes of the paper *Exploring Conversation Topics in Conversational Artificial Intelligence–Based Social Mediated Communities of Practice*.
-- The file include:
-  - Amazon
-    - alexa
-    - echo
-  - Apple
-    - homepod
-    - siri
-  - Google
-    - googleAssistant
-    - googleHome
-  - redditScraper
-  - dataURL
+1. This repository contains the replication codes of the paper *Exploring Conversation Topics in Conversational Artificial Intelligence–Based Social Mediated Communities of Practice*.
+2. The file includes:
+    - Amazon
+      - alexa
+        - corpus_dict
+        - LDAvis
+        - model
+        - tuning
+        - alexa_showLDAModel.ipynb
+        - alexa_trainLDAModel.ipynb
+      - echo
+        - corpus_dict
+        - LDAvis
+        - model
+        - tuning
+        - echo_showLDAModel.ipynb
+        - echo_trainLDAModel.ipynb
+    - Apple
+      - homepod
+        - corpus_dict
+        - LDAvis
+        - model
+        - tuning
+        - homepod_showLDAModel.ipynb
+        - homepod_trainLDAModel.ipynb
+      - siri
+        - corpus_dict
+        - LDAvis
+        - model
+        - tuning
+        - siri_showLDAModel.ipynb
+        - siri_trainLDAModel.ipynb
+    - Google
+      - googleAssistant
+        - corpus_dict
+        - LDAvis
+        - model
+        - tuning
+        - GA_showLDAModel.ipynb
+        - GA_trainLDAModel.ipynb
+      - googleHome
+        - corpus_dict
+        - LDAvis
+        - model
+        - tuning
+        - GH_showLDAModel.ipynb
+        - GH_trainLDAModel.ipynb
+    - redditScraper
+      -  1_reddit_threads_scraper.ipynb
+      -  2_reddit_threads_comments_scraper.ipynb
+    - dataURL.txt
