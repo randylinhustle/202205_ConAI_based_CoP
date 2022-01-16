@@ -3,7 +3,7 @@
 1. This repository contains the replication codes of the paper *Exploring Conversation Topics in Conversational Artificial Intelligence–Based Social Mediated Communities of Practice*.
 2. The file includes:
     - Amazon
-      - [alexa](ConAI-based-CoP/Amazon/alexa)
+      - [alexa](Amazon/alexa)
         - corpus_dict
         - LDAvis
         - model
