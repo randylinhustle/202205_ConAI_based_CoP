@@ -10,7 +10,7 @@
         - tuning
         - alexa_showLDAModel.ipynb
         - alexa_trainLDAModel.ipynb
-      - echo
+      - [echo](Amazon/echo)
         - corpus_dict
         - LDAvis
         - model
@@ -18,14 +18,14 @@
         - echo_showLDAModel.ipynb
         - echo_trainLDAModel.ipynb
     - Apple
-      - homepod
+      - [homepod](Apple/homepod)
         - corpus_dict
         - LDAvis
         - model
         - tuning
         - homepod_showLDAModel.ipynb
         - homepod_trainLDAModel.ipynb
-      - siri
+      - [siri](Apple/siri)
         - corpus_dict
         - LDAvis
         - model
@@ -33,21 +33,21 @@
         - siri_showLDAModel.ipynb
         - siri_trainLDAModel.ipynb
     - Google
-      - googleAssistant
+      - [googleAssistant](Google/googleAssistant)
         - corpus_dict
         - LDAvis
         - model
         - tuning
         - GA_showLDAModel.ipynb
         - GA_trainLDAModel.ipynb
-      - googleHome
+      - [googleHome](Google/googleHome)
         - corpus_dict
         - LDAvis
         - model
         - tuning
         - GH_showLDAModel.ipynb
         - GH_trainLDAModel.ipynb
-    - redditScraper
+    - [redditScraper](redditScraper)
       -  1_reddit_threads_scraper.ipynb
       -  2_reddit_threads_comments_scraper.ipynb
-    - dataURL.txt
+    - [dataURL.txt](dataURL.txt)
